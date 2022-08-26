@@ -34,8 +34,6 @@ const AvatarDiv = styled.div`
   margin-right: 14px;
   background: #dfecf2;
   border-radius: 48px;
-  border: 4px solid red;
-  font-weight: bold;
 `;
 
 const AvatarImg = styled.img`
